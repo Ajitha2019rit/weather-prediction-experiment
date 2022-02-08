@@ -5,13 +5,16 @@
 # Problem statement: Predicts the weather prediction
 
 # Machine Learning for Weather prediction Data
-![weather prediction experiment](https://user-images.githubusercontent.com/89577886/152533773-9d88d177-07cc-4b6c-a521-65b1f33d8ec7.PNG)
+![weather prediction experiment](https://user-images.githubusercontent.com/89577886/152987458-6c62dcd5-526c-4604-84f8-d64451357df5.jpg)
+
 
 # Data Visualization
-![data visualization](https://user-images.githubusercontent.com/89577886/152533903-dd07ecef-b8b8-456a-9f72-f25fe97f64df.jpg)
+![data visualization](https://user-images.githubusercontent.com/89577886/152987556-c8a2eb8e-0e4c-4fa7-a4dc-e2f245201f4d.jpg)
+
 
 # Score model Visualization
-![data visualization part 2](https://user-images.githubusercontent.com/89577886/152534022-3dc3c270-77e7-4b08-8ecf-0ec78de7f148.jpg)
+![data visualization part 2](https://user-images.githubusercontent.com/89577886/152987748-b0b69707-e55f-4c0d-b911-5469a109d0a1.jpg)
+
 
 # Project Description
 Weather forecasting is the application of science and technology to predict the state of the atmosphere at a given location. Ancient weather forecasting methods usually relied on observed patterns of events, also termed pattern recognition. For example, it might be observed that if the sunset was particularly red, the following day often brought fair weather.However, not all of these predictions prove to be reliable.
